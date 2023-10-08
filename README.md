@@ -1,4 +1,4 @@
-# Black-Jack-Cplusplus
+# SokoBan
 ## 概要：
 	用C++ 物件導向的概念實作SokoBan（倉庫番）
   WASD為角色的移動鍵
